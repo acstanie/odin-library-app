@@ -7,5 +7,10 @@
 
 .results > div {
     border: 1px solid black;
-    width: fit-content;
+    padding: 16px;
+    width: auto;
+}
+
+.book-id {
+    display: none;
 }
